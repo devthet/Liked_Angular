@@ -11,3 +11,8 @@
 <ng-template #noCourses>
   No Courses yet
 </ng-template>
+
+<p>hidden</p>
+<div [hidden]="courses.length==0">Course List using hidden </div>
+
+<div [hidden]="courses.length>0" >No course yet using hidden</div>

@@ -17,7 +17,7 @@ export class AppComponent {
   isLike : true
  };
 
- courses =[1,2,3];
+ courses =[];
 
 
 }
