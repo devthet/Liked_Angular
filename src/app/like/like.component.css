@@ -1,0 +1,8 @@
+.bi{
+    color:deeppink;
+    cursor: pointer;
+    font-size: 20px;
+}
+.highlighted{
+    color: #ccc;
+}
